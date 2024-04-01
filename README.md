@@ -1,4 +1,6 @@
 # Matplotlib-Challenge
+
+INSTRUCTIONS:
 PREPARE THE DATA
     Run the provided package dependency and data imports, and then merge the mouse_metadata and study_results DataFrames into a single DataFrame.
 
